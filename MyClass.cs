@@ -6,7 +6,7 @@ public class MyClass {
 
 	public bool mpla;
 
-    MyClass()
+    public MyClass()
     {
         mpla=false;
     }
