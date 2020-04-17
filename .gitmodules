@@ -1,3 +1,0 @@
-[submodule "TestSubModule2"]
-	path = TestSubModule2
-	url = ssh://git@github.com/oliver93mk/TestSubModule2.git
