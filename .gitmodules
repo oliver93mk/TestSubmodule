@@ -1,3 +1,3 @@
 [submodule "TestSubModule2"]
 	path = TestSubModule2
-	url = https://github.com/oliver93mk/TestSubModule2.git
+	url = git@github:oliver93mk/TestSubModule2.git
